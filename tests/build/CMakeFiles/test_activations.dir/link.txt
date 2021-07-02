@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp    CMakeFiles/test_activations.dir/test_activations.cpp.o CMakeFiles/test_activations.dir/common_utils.cpp.o  -o test_activations libdense.a /usr/lib/libgtest.a /usr/lib/libgtest_main.a 

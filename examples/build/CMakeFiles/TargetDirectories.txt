@@ -1,0 +1,4 @@
+/home/superhuman/programming/dense/examples/build/CMakeFiles/edit_cache.dir
+/home/superhuman/programming/dense/examples/build/CMakeFiles/rebuild_cache.dir
+/home/superhuman/programming/dense/examples/build/CMakeFiles/dense.dir
+/home/superhuman/programming/dense/examples/build/CMakeFiles/mnist.dir
