@@ -4,6 +4,7 @@
 ### Prerequisites
 * Eigen(C++ライブラリー)
 * Google Test(C++ユニットテストライブラリー)
+* MNISTデータを取り出すために使用する外部ライブラリー(https://github.com/wichtounet/mnist)
 
 ### MNISTデータセットの識別(コードの一部を表示。詳細は、/examples/mnist.cpp)
 ```cpp
