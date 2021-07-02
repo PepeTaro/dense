@@ -2,7 +2,7 @@
 ディープニューラルネットワークのデモをC++で実装。
 
 ### Prerequisites
-* Eigen(C++ライブラリー)
+* Eigen(C++線形代数ライブラリー)
 * Google Test(C++ユニットテストライブラリー)
 * MNISTデータを取り出すために使用する外部ライブラリー(https://github.com/wichtounet/mnist)
 
