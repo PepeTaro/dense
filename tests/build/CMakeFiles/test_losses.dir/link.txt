@@ -1,1 +1,0 @@
-/usr/bin/c++   -fopenmp    CMakeFiles/test_losses.dir/test_losses.cpp.o CMakeFiles/test_losses.dir/common_utils.cpp.o  -o test_losses libdense.a /usr/lib/libgtest.a /usr/lib/libgtest_main.a 

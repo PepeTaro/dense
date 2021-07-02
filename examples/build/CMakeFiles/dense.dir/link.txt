@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdense.a  CMakeFiles/dense.dir/home/superhuman/programming/dense/src/dense.cpp.o CMakeFiles/dense.dir/home/superhuman/programming/dense/src/utils/activations.cpp.o CMakeFiles/dense.dir/home/superhuman/programming/dense/src/utils/losses.cpp.o CMakeFiles/dense.dir/home/superhuman/programming/dense/src/utils/utils.cpp.o
-/usr/bin/ranlib libdense.a

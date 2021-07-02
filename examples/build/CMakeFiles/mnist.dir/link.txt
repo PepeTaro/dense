@@ -1,1 +1,0 @@
-/usr/bin/c++   -fopenmp    CMakeFiles/mnist.dir/mnist.cpp.o  -o mnist libdense.a 

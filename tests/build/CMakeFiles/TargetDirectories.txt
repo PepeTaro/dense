@@ -1,8 +1,0 @@
-/home/superhuman/programming/dense/tests/build/CMakeFiles/rebuild_cache.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/test_all.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/test_losses.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/dense.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/test_activations.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/edit_cache.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/test_dense.dir
-/home/superhuman/programming/dense/tests/build/CMakeFiles/test.dir

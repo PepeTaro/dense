@@ -1,3 +1,0 @@
-/home/superhuman/programming/tests/deep_learning/mnist/example/build/CMakeFiles/rebuild_cache.dir
-/home/superhuman/programming/tests/deep_learning/mnist/example/build/CMakeFiles/mnist_example.dir
-/home/superhuman/programming/tests/deep_learning/mnist/example/build/CMakeFiles/edit_cache.dir
